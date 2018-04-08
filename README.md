@@ -5,3 +5,5 @@
   Pick the 20 Newsgroups:http://qwone.com/~jason/20Newsgroups/
   
   Using `PCA algorithm`
+  
+  Presentation video: https://drive.google.com/file/d/0BzrSEc0SY2giWjMwUEVualc0czQ/view?usp=sharing
